@@ -10,14 +10,6 @@ public class Program{
 
     public static void Main(string [] args)
     {
-
-    int count=56;
-    count ++;
-    char ch='A';
-
-    bool status=false;
-    double price=56.6;
-
      Console.WriteLine("Welcome to Transflower");
 
     //Create two instances from Account class

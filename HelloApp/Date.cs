@@ -17,7 +17,6 @@ public class Date
         this.month=month;
         this.year=year;
     }
-    if()
     public void Display(){
          Console.WriteLine("date :"+ day+"/"+month+"/"+year);
     }
