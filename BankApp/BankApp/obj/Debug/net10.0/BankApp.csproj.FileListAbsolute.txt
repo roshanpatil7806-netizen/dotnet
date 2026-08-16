@@ -1,0 +1,15 @@
+C:\TP\dotnet\BankApp\BankApp\bin\Debug\net10.0\BankApp.exe
+C:\TP\dotnet\BankApp\BankApp\bin\Debug\net10.0\BankApp.deps.json
+C:\TP\dotnet\BankApp\BankApp\bin\Debug\net10.0\BankApp.runtimeconfig.json
+C:\TP\dotnet\BankApp\BankApp\bin\Debug\net10.0\BankApp.dll
+C:\TP\dotnet\BankApp\BankApp\bin\Debug\net10.0\BankApp.pdb
+C:\TP\dotnet\BankApp\BankApp\obj\Debug\net10.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\TP\dotnet\BankApp\BankApp\obj\Debug\net10.0\BankApp.AssemblyInfoInputs.cache
+C:\TP\dotnet\BankApp\BankApp\obj\Debug\net10.0\BankApp.AssemblyInfo.cs
+C:\TP\dotnet\BankApp\BankApp\obj\Debug\net10.0\BankApp.csproj.CoreCompileInputs.cache
+C:\TP\dotnet\BankApp\BankApp\obj\Debug\net10.0\BankApp.sourcelink.json
+C:\TP\dotnet\BankApp\BankApp\obj\Debug\net10.0\BankApp.dll
+C:\TP\dotnet\BankApp\BankApp\obj\Debug\net10.0\refint\BankApp.dll
+C:\TP\dotnet\BankApp\BankApp\obj\Debug\net10.0\BankApp.pdb
+C:\TP\dotnet\BankApp\BankApp\obj\Debug\net10.0\BankApp.genruntimeconfig.cache
+C:\TP\dotnet\BankApp\BankApp\obj\Debug\net10.0\ref\BankApp.dll
